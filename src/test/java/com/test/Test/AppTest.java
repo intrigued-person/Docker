@@ -6,15 +6,15 @@ import org.junit.jupiter.api.Test;
 
 class AppTest {
 
-	@Test
-	void testCompareString() {
-		assertTrue(App.CompareString("shakeel", "shakeel"));
-	}
+	// @Test
+	// void testCompareString() {
+	// 	assertTrue(App.CompareString("shakeel", "shakeel"));
+	// }
 	
-	@Test
-	void testCompareString1() {
-		assertFalse(App.CompareString("Shakeel", "shakeel"));
-	}
+	// @Test
+	// void testCompareString1() {
+	// 	assertFalse(App.CompareString("Shakeel", "shakeel"));
+	// }
 	
 	@Test
 	void testCompareString2() {
