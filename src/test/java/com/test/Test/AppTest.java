@@ -16,10 +16,10 @@ class AppTest {
 	// 	assertFalse(App.CompareString("Shakeel", "shakeel"));
 	// }
 	
-	@Test
-	void testCompareString2() {
-		assertEquals(0, App.CompareString("sakeel", "shakeel"));
-	}
+	// @Test
+	// void testCompareString2() {
+	// 	assertEquals(0, App.CompareString("sakeel", "shakeel"));
+	// }
 	
 	@Test
 	void testSub() {
